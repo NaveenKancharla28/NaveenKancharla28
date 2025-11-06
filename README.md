@@ -3,6 +3,7 @@ Hi i am Naveen Kancharla🙋🏽<br/>
 👨🏽‍💻CS with AI&ML student at SRM University,Chennai<br/>
 🧐IT student at ST Francis College,NYC<br/>
 🧠 I create ai agents,RAG chatbots,NLP projects to stay consistent<br/>
+🤓 I have fun solving leetcode<br/>
 
 
 ## 🌐 Socials:
