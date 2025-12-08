@@ -16,6 +16,9 @@ Hi i am Naveen Kancharla🙋🏽<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NaveenKancharla28&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenKancharla28&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenKancharla28&layout=compact)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=NaveenKancharla28&icon=4&color=11)](https://visitcount.itsvg.in)
 
